@@ -182,8 +182,7 @@ DSBA code study (2021.03.04 ~ )
 
 **Anomaly Detection**
 
-- [Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection]
-(https://github.com/SunwooKimstar/DAGMM.git) _[Sunwoo Kim]_
+- [Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection](https://github.com/SunwooKimstar/DAGMM.git) _[Sunwoo Kim]_
 
 # Time-Series
 
