@@ -180,6 +180,10 @@ DSBA code study (2021.03.04 ~ )
 - [Collaborative Filtering for Movie Recommendations](https://github.com/hwk0702/keras2torch/blob/main/Structured_Data/Collaborative_Filtering_for_Movie_Recommendations/Collaborative_Filtering_for_Movie_Recommendations.ipynb) _[Hyeongwon Kang]_
 - [A Transformer-based recommendation system](https://github.com/hwk0702/keras2torch/blob/main/Structured_Data/Collaborative_Filtering_for_Movie_Recommendations/Collaborative_Filtering_for_Movie_Recommendations.ipynb) _[Hyeongwon Kang]_
 
+**Anomaly Detection**
+
+- [Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection]
+(https://github.com/SunwooKimstar/DAGMM.git) _[Sunwoo Kim]_
 
 # Time-Series
 
