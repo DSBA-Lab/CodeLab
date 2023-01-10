@@ -1,7 +1,21 @@
+**Table of Contents**
+
+- [CodeLab](#codelab)
+- [Computer Vision](#computer-vision)
+- [Natural Language Processing](#natural-language-processing)
+- [Tabular Data](#tabular-data)
+- [Time-Series](#time-series)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Audio Data](#audio-data)
+- [Multi-modality](#multi-modality)
+- [Extra](#extra)
+- [Pytorch Accelerator](#pytorch-accelerator)
+- [Members](#members)
+
+
 # CodeLab
-DSBA code study
 
-
+DSBA code study (2021.03.04 ~ )
 
 # Computer Vision
 
@@ -74,7 +88,7 @@ DSBA code study
 
 - [Finetuning ViT with LoRA](https://github.com/hwk0702/keras2torch/tree/main/Computer_Vision/Finetuning_ViT_with_LoRA) _[Jaehyuk Heo]_
 
-**Generative Model**
+**Generative Models**
 
 - [Variational AutoEncoder](https://github.com/hwk0702/keras2torch/tree/main/Generative_Deep_Learning/Variational_AutoEncoder) _[Jaehyuk Heo]_
 - [DCGAN to generate face images](https://github.com/hwk0702/keras2torch/blob/main/Generative_Deep_Learning/DCGAN_to_generate_face_images/DCGAN_to_generate_face_images.ipynb) _[Hyeongwon Kang]_
@@ -179,6 +193,14 @@ DSBA code study
 - [Timeseries forecasting for weather prediction](https://github.com/hwk0702/keras2torch/tree/main/Timeseries/Timeseries_forecasting_for_weather_prediction) _[Hyeongwon Kang]_
 
 
+# Reinforcement Learning
+
+- [Actor Critic Method](https://github.com/hwk0702/keras2torch/blob/main/Reinforcement_Learning/Actor_Critic_Method/Actor_Critic_Method_KHW.ipynb) _[Hyeongwon Kang]_
+- [Deep Deterministic Policy Gradient (DDPG)](https://github.com/hwk0702/keras2torch/blob/main/Reinforcement_Learning/DDPG/DDPG.ipynb) _[Hyeongwon Kang]_
+- [Deep Q-Learning for Atari Breakout](https://github.com/hwk0702/keras2torch/blob/main/Reinforcement_Learning/Deep_Q_Learning_for_Atari_Breakout/Deep_Q_Learning_for_Atari_Breakout_KHW.ipynb) _[Hyeongwon Kang]_
+- [Proximal Policy Optimization](https://github.com/hwk0702/keras2torch/blob/main/Reinforcement_Learning/Proximal_Policy_Optimization/Proximal_Policy_Optimization.ipynb) _[Hyeongwon Kang]_
+
+
 # Audio Data
 
 **Recognition**
@@ -200,12 +222,6 @@ DSBA code study
 - [Distributions_TFP_Pyro](https://github.com/hwk0702/keras2torch/tree/main/Generative_Deep_Learning/Normalizing-Flow/Framework_practice/Distributions_TFP_Pyro) _[Jeongseob Kim]_
 
 
-# Reinforcement Learning
-
-- [Actor Critic Method](https://github.com/hwk0702/keras2torch/blob/main/Reinforcement_Learning/Actor_Critic_Method/Actor_Critic_Method_KHW.ipynb) _[Hyeongwon Kang]_
-- [Deep Deterministic Policy Gradient (DDPG)](https://github.com/hwk0702/keras2torch/blob/main/Reinforcement_Learning/DDPG/DDPG.ipynb) _[Hyeongwon Kang]_
-- [Deep Q-Learning for Atari Breakout](https://github.com/hwk0702/keras2torch/blob/main/Reinforcement_Learning/Deep_Q_Learning_for_Atari_Breakout/Deep_Q_Learning_for_Atari_Breakout_KHW.ipynb) _[Hyeongwon Kang]_
-- [Proximal Policy Optimization](https://github.com/hwk0702/keras2torch/blob/main/Reinforcement_Learning/Proximal_Policy_Optimization/Proximal_Policy_Optimization.ipynb) _[Hyeongwon Kang]_
 
 
 
