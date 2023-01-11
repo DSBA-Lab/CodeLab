@@ -32,7 +32,7 @@ DSBA code study (2021.03.04 ~ )
 - [Semi-supervised image classification using contrastive pretraining with SimCLR](https://github.com/hwk0702/keras2torch/tree/main/Computer_Vision/Semi-supervised%20image%20classification%20using%20contrastive%20pretraining%20with%20SimCLR) _[Subin Kim]_
 - [Self-supervised contrastive learning with SimSiam](https://github.com/hwk0702/keras2torch/tree/main/Computer_Vision/Self-supervised_contrastive_learning_with_SimSiam) _[Jaehyuk Heo]_
 - [Supervised Contrastive Learning](https://github.com/hwk0702/keras2torch/blob/main/Computer_Vision/Supervised_contrastive_learning/supervised_contrastive_learning.ipynb) _[Subin Kim]_
-- [With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations](https://github.com/crimama/k2k_NNCLR/blob/main/README.md) -[Hun Im]_
+- [With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations](https://github.com/crimama/k2k_NNCLR/blob/main/README.md) _[Hun Im]_
 
 **Image Denoising**
 
