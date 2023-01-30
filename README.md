@@ -120,7 +120,7 @@ DSBA code study (2021.03.04 ~ )
 - [MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities](https://github.com/TooTouch/MemSeg) _[Jaehyuk Heo]_
 - [student-teacher feature pyramid matching for anomaly detection](https://github.com/crimama/STPM) _[Hun Im]_
 - [Anomaly Detection via Reverse Distillation from One-Class Embedding](https://github.com/crimama/Reversedistillation) _[Hun Im]_
-- [Learning Semantic Context from Normal Samples for Unsupervised Anomaly Detection] (https://github.com/SunwooKimstar/SCADN_practice.git) _[Sunwoo Kim]_
+- [Learning Semantic Context from Normal Samples for Unsupervised Anomaly Detection](https://github.com/SunwooKimstar/SCADN_practice.git) _[Sunwoo Kim]_
 
 # Natural Language Processing
 
