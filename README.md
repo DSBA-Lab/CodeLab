@@ -227,6 +227,7 @@ DSBA code study (2021.03.04 ~ )
 # Extra
 
 - [Distributions_TFP_Pyro](https://github.com/hwk0702/keras2torch/tree/main/Generative_Deep_Learning/Normalizing-Flow/Framework_practice/Distributions_TFP_Pyro) _[Jeongseob Kim]_
+- [GMM_Implementation](https://github.com/whatsbirddd/pytorch-practice/blob/main/gmm.ipynb) _[Saeran Park]_
 
 
 
