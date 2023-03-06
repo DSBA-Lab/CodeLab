@@ -223,6 +223,9 @@ DSBA code study (2021.03.04 ~ )
 - [Natural language image search with a Dual Encoder](https://github.com/hwk0702/keras2torch/blob/main/Natural_Language_Processing/Natural_language_image%20search_with_a_Dual_Encoder/nl_image_search_KSB.ipynb) _[Subin Kim]_
 
 
+# Active Learning
+
+- [Uncertainty Sampling - Least Confidence, Margin Sampling, Entropy Sampling](https://github.com/TooTouch/Active_Learning-Uncertainty_Sampling) _[Jaehyuk Heo]_
 
 # Extra
 
