@@ -251,13 +251,13 @@ DSBA code study (2021.03.04 ~ )
 
 | WooJun Lee<br>(2023.2 ~ ) | Kiyoon Jeong<br>(2023.2 ~ ) |
 | :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/37654013/227829459-ed44e61a-8fa6-413d-83c4-6da15fc931bf.gif" width=150px> | <img src="https://user-images.githubusercontent.com/37654013/227829703-74021c85-dba3-4184-8774-5e77cd450e13.jpeg" width=150px> |
+| <img src="https://user-images.githubusercontent.com/37654013/227829459-ed44e61a-8fa6-413d-83c4-6da15fc931bf.gif" width=150px> | <img src="https://user-images.githubusercontent.com/37654013/227829703-74021c85-dba3-4184-8774-5e77cd450e13.jpeg" width=150px height=150px> |
 | **[Github](https://github.com/johnbuzz98)** | **[Github](https://github.com/kiyoonjeong0305)** |
 
 
 | Imhun<br>(2022.8 ~ ) | Jinwoo<br>(2022.8 ~ ) | SeongHee<br>(2022.8 ~ ) | SaeRan<br>(2022.7 ~ )|
 | :---: | :---: | :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/37654013/211774501-b1a80c4f-47e7-49f2-af0d-abdd81b2a36d.png" width=150px> | <img src="https://user-images.githubusercontent.com/37654013/211774105-0852807f-2a76-448f-80d5-15aab00dcde4.png" width=150px> | <img src="https://user-images.githubusercontent.com/37654013/211774226-ee2fc3c6-c2cb-4c35-89e9-35ac5ce38e2c.png" width=150px> | <img src="https://user-images.githubusercontent.com/37654013/211843318-a751d753-3ff4-47d4-93df-386bd39445ef.png" width=150px> |
+| <img src="https://user-images.githubusercontent.com/37654013/211774501-b1a80c4f-47e7-49f2-af0d-abdd81b2a36d.png" width=150px height=150px> | <img src="https://user-images.githubusercontent.com/37654013/211774105-0852807f-2a76-448f-80d5-15aab00dcde4.png" width=150px> | <img src="https://user-images.githubusercontent.com/37654013/211774226-ee2fc3c6-c2cb-4c35-89e9-35ac5ce38e2c.png" width=150px> | <img src="https://user-images.githubusercontent.com/37654013/211843318-a751d753-3ff4-47d4-93df-386bd39445ef.png" width=150px> |
 | **[Github](https://github.com/crimama)** | **[Github](https://github.com/JINU6497)** | **[Github](https://github.com/hongshi97)** | **[Github](https://github.com/whatsbirddd)** |
 
 
