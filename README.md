@@ -122,6 +122,7 @@ DSBA code study (2021.03.04 ~ )
 - [Anomaly Detection via Reverse Distillation from One-Class Embedding](https://github.com/crimama/Reversedistillation) _[Hun Im]_
 - [Learning Semantic Context from Normal Samples for Unsupervised Anomaly Detection](https://github.com/SunwooKimstar/SCADN_practice.git) _[Sunwoo Kim]_
 - [Asymmetric student-teacher networks for industrial anomaly detection](https://github.com/crimama/AST) _[Hun Im]_
+- [PANDA: Adapting Pretrained Features for Anomaly Detection and Segmentation](https://github.com/johnbuzz98/PANDA) _[Woojun Lee]_
 
 # Natural Language Processing
 
