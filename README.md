@@ -220,7 +220,7 @@ DSBA code study (2021.03.04 ~ )
 
 **Vision-Langauge**
 
-- [Multimodal entailment](https://github.com/hwk0702/keras2torch/blob/main/Natural_Language_Processing/Multimodal_Entailment/multimodal_entailment_KYK.ipynb) _[Yookyung Kho]_
+- [Multimodal Entailment](https://github.com/yookyungkho/Multimodal-Entailment-pytorch) _[Yookyung Kho]_
 - [Natural language image search with a Dual Encoder](https://github.com/hwk0702/keras2torch/blob/main/Natural_Language_Processing/Natural_language_image%20search_with_a_Dual_Encoder/nl_image_search_KSB.ipynb) _[Subin Kim]_
 
 
