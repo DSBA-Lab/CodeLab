@@ -150,6 +150,7 @@ DSBA code study (2021.03.04 ~ )
 **Pretrained Language Model**
 
 - [End-to-end Masked Language Modeling with BERT](https://github.com/hwk0702/keras2torch/blob/main/Natural_Language_Processing/End-to-end_Masked_Language_Modeling_with_BERT/mlm_and_finetune_with_bert_KSB.ipynb) _[Subin Kim]_
+- [Pre-training Table-specific Language Model with Huggingface TapasForMaskedLM](https://github.com/hwk0702/keras2torch/blob/main/Natural_Language_Processing/Table_pretraining_with_TAPAS/Table_Pretraining_with_TapasForMaskedLM_KYK.ipynb) _[Yookyung Kho]_
  
 
 **Named Entity Recognition**
@@ -159,11 +160,6 @@ DSBA code study (2021.03.04 ~ )
 **Natural Language Inference**
 
 - [Semantic Similarity with BERT](https://github.com/hwk0702/keras2torch/blob/main/Natural_Language_Processing/Semantic_Similarity_with_BERT/Semantic_Similarity_with_BERT_HJH.ipynb) _[Jaehyuk Heo]_
-
-
-**Table MRC**
-
-- [Table Pre-training with TapasForMaskedLM](https://github.com/hwk0702/keras2torch/blob/main/Natural_Language_Processing/Table_pretraining_with_TAPAS/Table_Pretraining_with_TapasForMaskedLM_KYK.ipynb) _[Yookyung Kho]_
 
 **Style Transfer**
 
