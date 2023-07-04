@@ -124,7 +124,7 @@ DSBA code study (2021.03.04 ~ )
 - [Learning Semantic Context from Normal Samples for Unsupervised Anomaly Detection](https://github.com/SunwooKimstar/SCADN_practice.git) _[Sunwoo Kim]_
 - [Asymmetric student-teacher networks for industrial anomaly detection](https://github.com/crimama/AST) _[Hun Im]_
 - [PANDA: Adapting Pretrained Features for Anomaly Detection and Segmentation](https://github.com/johnbuzz98/PANDA) _[Woojun Lee]_
-- [Diffusion AD: Denoising Diffusion for Anomaly Detection](https://github.com/johnbuzz98/DiffusionAD_Unofficial) _[Woojun Lee]_
+- [Diffusion AD: Denoising Diffusion for Anomaly Detection](https://github.com/johnbuzz98/DiffusionAD_Unofficial) _[Woojun Lee]_
   
 # Natural Language Processing
 
@@ -264,10 +264,10 @@ DSBA code study (2021.03.04 ~ )
 
 
 
-| Sunwoo<br>(2022.5 ~ ) | Jaehyuk<br>(2021.3 ~ ) | Jeongsub<br>(2021.3 ~ 2022.12) | Suzie<br>(2022.5 ~ 2022.11)|
+| Jaehyuk<br>(2021.3 ~ ) | Sunwoo<br>(2022.5 ~ 2023.6) | Jeongsub<br>(2021.3 ~ 2022.12) | Suzie<br>(2022.5 ~ 2022.11)|
 | :---: | :---: | :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/68496320/168459726-ac6ce3dc-eeb8-485c-a870-10af89efe102.png" width=150px> | <img src="https://github.com/yukyunglee/Transformer_Survey_Study/blob/3254384e154ff2a3232a9fe723da36b1ceb92705/img/jh.png?raw=true" width=150px> | <img src="https://avatars.githubusercontent.com/u/63832233?v=4" width=150px> | <img src="https://user-images.githubusercontent.com/68496320/174434838-8c470e18-b51f-4551-ae68-4e8032664555.png" width=150px> |
-| **[Github](https://github.com/SunwooKimstar)** | **[Github](https://github.com/TooTouch)** | **[Github](https://github.com/jskim0406)** | **[Github](https://github.com/ohsuz)** |
+| <img src="https://github.com/yukyunglee/Transformer_Survey_Study/blob/3254384e154ff2a3232a9fe723da36b1ceb92705/img/jh.png?raw=true" width=150px> | <img src="https://user-images.githubusercontent.com/68496320/168459726-ac6ce3dc-eeb8-485c-a870-10af89efe102.png" width=150px> | <img src="https://avatars.githubusercontent.com/u/63832233?v=4" width=150px> | <img src="https://user-images.githubusercontent.com/68496320/174434838-8c470e18-b51f-4551-ae68-4e8032664555.png" width=150px> |
+| **[Github](https://github.com/TooTouch)** | **[Github](https://github.com/SunwooKimstar)** | **[Github](https://github.com/jskim0406)** | **[Github](https://github.com/ohsuz)** |
 
 
 
