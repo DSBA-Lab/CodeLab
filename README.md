@@ -124,7 +124,8 @@ DSBA code study (2021.03.04 ~ )
 - [Learning Semantic Context from Normal Samples for Unsupervised Anomaly Detection](https://github.com/SunwooKimstar/SCADN_practice.git) _[Sunwoo Kim]_
 - [Asymmetric student-teacher networks for industrial anomaly detection](https://github.com/crimama/AST) _[Hun Im]_
 - [PANDA: Adapting Pretrained Features for Anomaly Detection and Segmentation](https://github.com/johnbuzz98/PANDA) _[Woojun Lee]_
-
+- [Diffusion AD: Denoising Diffusion for Anomaly Detection](https://github.com/johnbuzz98/DiffusionAD_Unofficial) _[Woojun Lee]_
+  
 # Natural Language Processing
 
 
