@@ -202,6 +202,8 @@ DSBA code study (2021.03.04 ~ )
 **Forecasting**
 - [Timeseries forecasting for weather prediction](https://github.com/hwk0702/keras2torch/tree/main/Timeseries/Timeseries_forecasting_for_weather_prediction) _[Hyeongwon Kang]_
 
+**Representation**
+- [Timeseries Representation Learning with Masked Modeling](https://github.com/JINU6497/Time-series-representation) _[Jinwoo Park]_
 
 # Reinforcement Learning
 
