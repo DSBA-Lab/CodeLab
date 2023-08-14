@@ -21,6 +21,7 @@ DSBA code study (2021.03.04 ~ )
 
 **Classification**
 
+- [Balanced Softmax for classification](https://github.com/TooTouch/BalancedSoftmax) _[Jaehyuk Heo]_
 - [Visual Prompt Tuning](https://github.com/TooTouch/VPT) _[Jaehyuk Heo]_
 - [Model Soup](https://github.com/hwk0702/keras2torch/tree/main/Computer_Vision/Model_Soup) _[Jaehyuk Heo]_
 - [Point cloud classification with PointNet](https://github.com/hwk0702/keras2torch/blob/main/Computer_Vision/Point_cloud_classification/Point_cloud_classification.ipynb) _[Hyeongwon Kang]_
