@@ -256,7 +256,7 @@ DSBA code study (2021.03.04 ~ )
 
 | WooJun Lee<br>(2023.2 ~ ) | Kiyoon Jeong<br>(2023.2 ~ ) | MinJeong Ma<br>(2023.8 ~ ) |
 | :---: | :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/37654013/227829459-ed44e61a-8fa6-413d-83c4-6da15fc931bf.gif" width=150px> | <img src="https://user-images.githubusercontent.com/37654013/227829703-74021c85-dba3-4184-8774-5e77cd450e13.jpeg" width=150px height=150px> | <img src="https://github.com/maj34/ResNet-TinyImageNet/assets/75362328/7a3ed7fc-9557-4e30-b193-44af46a77f41" width=150px height=150px> |
+| <img src="https://user-images.githubusercontent.com/37654013/227829459-ed44e61a-8fa6-413d-83c4-6da15fc931bf.gif" width=150px> | <img src="https://user-images.githubusercontent.com/37654013/227829703-74021c85-dba3-4184-8774-5e77cd450e13.jpeg" width=150px height=150px> | <img src="https://github.com/DSBA-Lab/CodeLab/assets/75362328/4fbf0a7f-0266-4b38-8181-60a2b9517f0f" width=150px height=150px> |
 | **[Github](https://github.com/johnbuzz98)** | **[Github](https://github.com/kiyoonjeong0305)** | **[Github](https://github.com/maj34)** |
 
 
