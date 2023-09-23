@@ -251,13 +251,14 @@ DSBA code study (2021.03.04 ~ )
 
 
 
-# Members
+# Members!
 
 
-| WooJun Lee<br>(2023.2 ~ ) | Kiyoon Jeong<br>(2023.2 ~ ) | MinJeong Ma<br>(2023.8 ~ ) |
-| :---: | :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/37654013/227829459-ed44e61a-8fa6-413d-83c4-6da15fc931bf.gif" width=150px> | <img src="https://user-images.githubusercontent.com/37654013/227829703-74021c85-dba3-4184-8774-5e77cd450e13.jpeg" width=150px height=150px> | <img src="https://github.com/DSBA-Lab/CodeLab/assets/75362328/4fbf0a7f-0266-4b38-8181-60a2b9517f0f" width=150px height=150px> |
-| **[Github](https://github.com/johnbuzz98)** | **[Github](https://github.com/kiyoonjeong0305)** | **[Github](https://github.com/maj34)** |
+
+| WooJun Lee<br>(2023.2 ~ ) | Kiyoon Jeong<br>(2023.2 ~ ) | MinJeong Ma<br>(2023.8 ~ ) | Woongchan Nam<br>(2023.8 ~ ) |
+| :---: | :---: | :---: | :---: |
+| <img src="https://user-images.githubusercontent.com/37654013/227829459-ed44e61a-8fa6-413d-83c4-6da15fc931bf.gif" width=150px> | <img src="https://user-images.githubusercontent.com/37654013/227829703-74021c85-dba3-4184-8774-5e77cd450e13.jpeg" width=150px height=150px> | <img src="https://github.com/DSBA-Lab/CodeLab/assets/75362328/4fbf0a7f-0266-4b38-8181-60a2b9517f0f" width=150px height=150px> | <img src="https://github.com/DSBA-Lab/CodeLab/assets/75806377/3596794f-2c05-47c7-8e69-ad64d0c9ef29" width=150px height=150px> |
+| **[Github](https://github.com/johnbuzz98)** | **[Github](https://github.com/kiyoonjeong0305)** | **[Github](https://github.com/maj34)** | **[Github](https://github.com/woongchan789)** |
 
 
 | Imhun<br>(2022.8 ~ ) | Jinwoo<br>(2022.8 ~ ) | SeongHee<br>(2022.8 ~ ) | SaeRan<br>(2022.7 ~ 2023.7)|
