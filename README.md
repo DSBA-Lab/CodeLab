@@ -205,6 +205,7 @@ DSBA code study (2021.03.04 ~ )
 
 **Representation**
 - [Timeseries Representation Learning with Masked Modeling](https://github.com/JINU6497/Time-series-representation) _[Jinwoo Park]_
+- [Timeseries Representation Learning with LLM](https://github.com/JINU6497/Time-series-LLM) _[Jinwoo Park]_
 
 # Reinforcement Learning
 
