@@ -240,9 +240,6 @@ DSBA code study (2021.03.04 ~ )
 - [GMM_Implementation](https://github.com/whatsbirddd/pytorch-practice/blob/main/gmm.ipynb) _[Saeran Park]_
 
 
-
-
-
 # Pytorch Accelerator
 
 - [Huggingface Accelerator](https://github.com/TooTouch/Pytorch-Accelerator-Test) _[Jaehyuk Heo]_
@@ -250,6 +247,10 @@ DSBA code study (2021.03.04 ~ )
 - [Gradient Accumulation](https://github.com/hwk0702/keras2torch/tree/main/Pytorch-Accelerator/gradient_accumulation) _[Jaehyuk Heo]_
 - [Distributed Data Parallel](https://github.com/hwk0702/keras2torch/tree/main/Pytorch-Accelerator/DDP) _[Jaehyuk Heo]_
 
+
+# for experiments
+
+- [config setting](https://github.com/TooTouch/config-setting) _[Jaehyuk Heo]_
 
 
 # Members!
