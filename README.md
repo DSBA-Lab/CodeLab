@@ -142,6 +142,7 @@ DSBA code study (2021.03.04 ~ )
 - [Sequence to sequence learning for performing number addition](https://github.com/hwk0702/keras2torch/blob/main/Natural_Language_Processing/Seq2seq_Number_Addition/seq2seq_number_addition_KYK.ipynb) _[Yookyung Kho]_
 - [Character-level recurrent sequence-to-sequence model](https://github.com/hwk0702/keras2torch/blob/main/Natural_Language_Processing/Character-level_recurrent_sequence-to-sequence_model/Character_level_Machine_translator_with_seq2seq_KJS_3.ipynb) _[Jeongseob Kim]_
 - [English-to-Spanish translation with a sequence-to-sequence Transformer](https://github.com/hwk0702/keras2torch/blob/main/Natural_Language_Processing/Machine_Translation_via_seq2seq_Transformer/spn2eng_Translation_via_seq2seq_Transformer_KYK.ipynb) _[Yookyung Kho]_
+- [Trusting Your Evidence: Hallucinate Less with Context-aware Decoding](https://github.com/hongshi97/CAD)
 
 
 **Question Answering**
